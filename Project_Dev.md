@@ -91,7 +91,7 @@ To have the possibilities for many people to play no matter the condition.
 ---
 ---
 <h3>Accessibility</h3>
-My project would be mostly usable for many groups of people. This would be completed with the implemented WASD and arrow keys controls as well as having a fully subtitled game. I could also implement precise graphics settings to accommodate for visual imparities
+My project would be mostly usable for many groups of people. This would be completed with the implemented WASD and arrow keys controls as well as having a fully subtitled game. I could also implement precise graphics settings to accommodate for visual imparities. I will also try to  input key bind changes which may be too ambitious but will add towards helping people gain there desired button layout to increase accesebility. I will also add music changes for master volume, effects and music.
 
 <h3>Data Protection</h3>
 I would not collect any data from the user such as high scores with the only data being used is data from the gave saves which does not contain any personal or inputted data from the user.
@@ -100,7 +100,7 @@ I would not collect any data from the user such as high scores with the only dat
 With my game being based on a very unnatural world being the mysterious depths of the Factory depths which is a foreign world - it wouldnt contain any characters that are stereotypical with race, gender, culture or ability. This would also affect the human characters, where i could create a diverse range of characters to make everyone feel included without making ther sole purpose of adding diversity to the story.
 
 <h3>Mental Wellbeing</h3>
-I will try to make the story not too dark, horrific or violent but some themes might still be too dark for young audiences, maybe around an age of either 10+ 13+ (The age requirement of Minecraft is 10+ for comparison). This would be slightly scary themes such as mosnters and darker themes like Big Man or the design of other characters...(Scott the Roboss)
+I will try to make the story not too dark, horrific or violent but some themes might still be too dark for young audiences, maybe around an age of either 10+ 13+ (The age requirement of Minecraft is 10+ for comparison). This would be slightly scary themes such as mosnters and darker themes like Big Man or the design of other characters...(Scott the Roboss) I will also try to make the story have a mostly positive outcome but there will be some lower and darker bits throughout the story.
 
 <h3>Cultural Awareness</h3>
 I will not add anything hatefull or hurtfull towards any culture or religion and hopefully nothing that is made would be interpreted as something else or take a concept of the game out of hand. (An example of this is Sans from undertale being taken as devil worship which had taken the character out of his actual use in the game.) I will try to make sure the purpose of every characters is clear and has no alterior motives other than actual metaphorical meanings to themes.
