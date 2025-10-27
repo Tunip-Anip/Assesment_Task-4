@@ -34,12 +34,12 @@ With data transmission, there shouldn't be any unnecessary actions to decrease e
 <h3>Storage:</h3>
 Needs to be stored in a safe location that wouldn't risk a mass of progress being lost at once. There should also be folders to store different objects to prevent overlapping of names and clean out errors in programming. The game should also create an easy way to save progress to continue on in later times.
 
-
+<h1>Success Criteria</h1>
 <h2>Functional Requirements:</h2>
 
 
 <h3>UI</h3>
-Have a readable and accessible input system and have actions correlated to inputs given; W or Up Arrow makes the character go up, S/down arrow makes it go down etc. Escape should be a menu or inventory or a menu that leads into an inventory and z/x or enter/shift should be select and deselect respectively.(z and x are both far enough from the arrows to create a comfortable distance to play and not cause hand cramping.)
+Have a intuitive and accessible input system and have actions correlated to inputs given; W or Up Arrow makes the character go up, S/down arrow makes it go down etc. Escape should be a menu or inventory or a menu that leads into an inventory and z/x or enter/shift should be select and deselect respectively.(z and x are both far enough from the arrows to create a comfortable distance to play and not cause hand cramping.)
 
 
 <h3>Gameplay</h3>
