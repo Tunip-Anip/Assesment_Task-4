@@ -96,7 +96,7 @@ To have the possibilities for many people to play no matter the condition.
 My project would be mostly usable for many groups of people. This would be completed with the implemented WASD and arrow keys controls as well as having a fully subtitled game. I could also implement precise graphics settings to accommodate for visual imparities. I will also try to  input key bind changes which may be too ambitious but will add towards helping people gain there desired button layout to increase accesebility. I will also add music changes for master volume, effects and music.
 
 <h3>Data Protection</h3>
-I would not collect any data from the user such as high scores with the only data being used is data from the gave saves which does not contain any personal or inputted data from the user.
+I would not collect any data from the user such as high scores with the only data being used is data from the gave saves which does not contain any personal or inputted data from the user. For the data I would also create frequent backups of the data so the users is in complete data. I would also be open with the data usage and the files by creating a method to where data can be easily accessed.
 
 <h3>Fairness</h3>
 With my game being based on a very unnatural world being the mysterious depths of the Factory depths which is a foreign world - it wouldnt contain any characters that are stereotypical with race, gender, culture or ability. This would also affect the human characters, where i could create a diverse range of characters to make everyone feel included without making ther sole purpose of adding diversity to the story.
