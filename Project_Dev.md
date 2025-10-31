@@ -34,7 +34,10 @@ With data transmission, there shouldn't be any unnecessary actions to decrease e
 <h3>Storage:</h3>
 Needs to be stored in a safe location that wouldn't risk a mass of progress being lost at once. There should also be folders to store different objects to prevent overlapping of names and clean out errors in programming. The game should also create an easy way to save progress to continue on in later times.
 
+---
+
 <h1>Success Criteria</h1>
+
 <h2>Functional Requirements:</h2>
 
 
@@ -88,8 +91,7 @@ To have the possibilities for many people to play no matter the condition.
 
 
 ---
----
----
+
 <h3>Accessibility</h3>
 My project would be mostly usable for many groups of people. This would be completed with the implemented WASD and arrow keys controls as well as having a fully subtitled game. I could also implement precise graphics settings to accommodate for visual imparities. I will also try to  input key bind changes which may be too ambitious but will add towards helping people gain there desired button layout to increase accesebility. I will also add music changes for master volume, effects and music.
 
