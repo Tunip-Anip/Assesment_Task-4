@@ -89,7 +89,7 @@ To have the possibilities for many people to play no matter the condition.
 
 ---
 <h3>Accessibility</h3>
-My project would be mostly usable for many groups of people. This would be completed with the implemented WASD and arrow keys controls as well as having a fully subtitled game. I could also implement precise graphics settings to accommodate for visual imparities. I will also try to  input key bind changes which may be too ambitious but will add towards helping people gain there desired button layout to increase accesebility. I will also add music changes for master volume, effects and music.
+My project would be mostly usable for many groups of people. This would be completed with the implemented WASD and arrow keys controls as well as having a fully subtitled game. I could also implement precise graphics settings to accommodate for visual imparities, this would also include a setting to increase the difference of shades to help with colourblindness. I will also try to  input key bind changes which may be too ambitious but will add towards helping people gain there desired button layout to increase accesebility. I will also add music changes for master volume, effects and music.
 
 <h3>Data Protection</h3>
 I would not collect any data from the user such as high scores with the only data being used is data from the gave saves which does not contain any personal or inputted data from the user. For the data I would also create frequent backups of the data so the users is in complete data. I would also be open with the data usage and the files by creating a method to where data can be easily accessed.
